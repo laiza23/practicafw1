@@ -4,13 +4,12 @@ Num. control:
 
 Nombre completo: 
 
-Curp:
+CURP:
 
-Direccion:
+Dirección:
 
-Telefono:
+Teléfono:
 
 Correo institucional: 
 
-rama 2
 
